@@ -1,6 +1,6 @@
 # digikala_quera_2020
-Digikala Competition
----
+Digikala Competition 2020 Data Science
+
 
 Number| Problem | Link to quera.ir  | My Solution  
 --- | ---     | ---   | --- 

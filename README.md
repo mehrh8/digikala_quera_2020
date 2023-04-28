@@ -1,6 +1,6 @@
 # Digikala Competition 2020 Data Science
 
-I achieved a remarkable 10th place in this [competition](https://quera.org/contest/assignments/20120/scoreboard/).
+I achieved a remarkable **10th place** in this [competition](https://quera.org/contest/assignments/20120/scoreboard/).
 
 Number| Problem Title | Problem Title (EN) | Link to quera.ir  | My Solution  
 --- | ---     | ---   | ---  | --- 

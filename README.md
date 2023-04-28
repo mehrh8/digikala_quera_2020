@@ -1,5 +1,7 @@
 # Digikala Competition 2020 Data Science
 
+I achieved a remarkable 10th place in this [competition](https://quera.org/contest/assignments/20120/scoreboard/).
+
 Number| Problem Title | Problem Title (EN) | Link to quera.ir  | My Solution  
 --- | ---     | ---   | ---  | --- 
 1     | پیش‌بینی میزان فروش | Sales forecast | [Link](https://quera.ir/contest/assignments/20120/problems/66274) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mehrshadhosseini28/digikala_quera_2020/blob/master/Digikala_P1.ipynb)
